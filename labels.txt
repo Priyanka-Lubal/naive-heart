@@ -1,0 +1,22 @@
+labels:
+
+0 Coronary Artery Disease
+1 High Blood Pressure
+2 Congestive Heart Failure
+3 Stroke
+
+parameters:
+
+1 Age
+2 Gender
+3 Chest Pain Type                                    
+4 Fasting Blood Sugar
+5 Resting Electrographic Results
+6 Exercise Induced Angina
+7 The slope of the peak exercise ST segment
+8 Number of major vessels colored by fluoroscopy
+9 Thal
+10 Trest Blood Pressure
+11 Serum Cholesterol
+12 Maximum heart rate achieved
+13 ST depression induced by exercise
